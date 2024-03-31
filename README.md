@@ -1,7 +1,6 @@
 # Tic-Tac-Toe Game
 
 
-
 This is a simple implementation of a Tic-Tac-Toe game using HTML, CSS, and JavaScript. The game allows two players to take turns marking spaces in a 3x3 grid, aiming to achieve three marks in a row, column, or diagonal.
 
 ### Usage
@@ -31,6 +30,16 @@ To use the Tic-Tac-Toe game:
 ### CSS Styles
 
 The CSS file (`styles.css`) defines the visual appearance of the game elements, including the grid layout, box styling, button styling, and responsive design for different screen sizes.
+
+### Cloning the Repository
+
+To clone this repository to your local machine, use the following command in your terminal or command prompt:
+
+```
+git clone https://github.com/inaveed-git/Tic-Tac-Toe-Game.git
+```
+
+Once cloned, you can navigate to the directory and open the `index.html` file in your web browser to play the game.
 
 ### Enjoy playing Tic-Tac-Toe!
 
